@@ -21,8 +21,8 @@ repository               : "samuel-smith-appm/samuel-smith-appm.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "About Me"
+  avatar           : "profile_pic.png"
+  name             : "Samuel Smith"
   pronouns         : "he/him" # example: "she/her"  
   bio              : "Hello! I'm Sam, a first year PhD student studying Applied Mathematics at the University of Colorado Boulder."
   location         : "Boulder, CO"
@@ -43,12 +43,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "samuel-smith-appm"
+  github           : #"samuel-smith-appm"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "samuel-smith-5b6410194" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
